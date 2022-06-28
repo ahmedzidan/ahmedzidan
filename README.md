@@ -1,3 +1,7 @@
+Hi there!
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ahmedzidan.visitor-badge)
+
 ![Zidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedzidan&count_private=true)
 
 
